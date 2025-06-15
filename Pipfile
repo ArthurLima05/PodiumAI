@@ -12,6 +12,9 @@ scikit-learn = "*"
 jupyter = "*"
 ipykernel = "*"
 tqdm = "*"
+category-encoders = "*"
+lightgbm = "*"
+optuna = "*"
 
 [dev-packages]
 
